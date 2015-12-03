@@ -10,9 +10,11 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-imagemin": "^2.4.0",
+    "imagemin-pngquant": "^4.2.0",
     "require-dir": "^0.3.0"
   },
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "log": "^1.4.0"
   }
 }
